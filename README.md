@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratiksamanta
 - 👀 I’m interested in data analytics & dashboarding projects
-- 🌱 I’m currently learning business analytics
+- 🌱 Data Storytelling
 - 💞️ I’m looking to collaborate on analytics & dashboarding projects
 - 📫 How to reach me : pratiksamanta20@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pratik-samanta1729/
